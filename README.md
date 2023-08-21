@@ -1,4 +1,4 @@
-# MicroGrad - (an adaption of Andrej Karpathy's micrograd)
+# MicroGrad
 
 ## Motivation
 Neural net mental model simplified using scalar-valued autograd and a pytorch-like interface
