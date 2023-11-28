@@ -3,6 +3,10 @@
 ## Motivation
 Neural net mental model simplified using scalar-valued autograd and a pytorch-like interface
 
+## Main differences with Karpathy Implementation
+- Different implementation of visualization of network
+- Fully typed python code
+
 ## Usage
 
 ```python
